@@ -1,5 +1,5 @@
 # Getting data
-with open('day2.in') as file:
+with open('Pozao.txt') as file:
     rounds = [i.replace(" ", "") for i in file.read().strip().split("\n")]
 
 # View data
